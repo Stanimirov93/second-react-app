@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/second-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/second-react-app/static/js/main.bec09416.js",
+    "static/js/787.f9c91339.chunk.js": "/second-react-app/static/js/787.f9c91339.chunk.js",
+    "static/media/logo.svg": "/second-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/second-react-app/index.html",
+    "main.073c9b0a.css.map": "/second-react-app/static/css/main.073c9b0a.css.map",
+    "main.bec09416.js.map": "/second-react-app/static/js/main.bec09416.js.map",
+    "787.f9c91339.chunk.js.map": "/second-react-app/static/js/787.f9c91339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bec09416.js"
+  ]
+}
