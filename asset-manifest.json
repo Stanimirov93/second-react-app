@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/second-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/second-react-app/static/js/main.f50e92d2.js",
-    "static/js/787.f9c91339.chunk.js": "/second-react-app/static/js/787.f9c91339.chunk.js",
-    "static/media/logo.svg": "/second-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/second-react-app/static/css/main.31d6cfe0.css",
+    "main.js": "/second-react-app/static/js/main.b52316ef.js",
     "index.html": "/second-react-app/index.html",
-    "main.073c9b0a.css.map": "/second-react-app/static/css/main.073c9b0a.css.map",
-    "main.f50e92d2.js.map": "/second-react-app/static/js/main.f50e92d2.js.map",
-    "787.f9c91339.chunk.js.map": "/second-react-app/static/js/787.f9c91339.chunk.js.map"
+    "main.b52316ef.js.map": "/second-react-app/static/js/main.b52316ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f50e92d2.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b52316ef.js"
   ]
 }
