@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Modal from "./Modal";
 import Backdrop from "./Backdrop";
+import classes from "./TodoList.module.css";
 
 function TodoList(props) {
   const [modalIsOpen, setModalIsOpen] = useState(false);
@@ -16,9 +17,9 @@ function TodoList(props) {
   }
 
   return (
-    <div className="card">
+    <div className={classes.modal_box}>
       <h3>{props.text}</h3>
-      <div className="actions">
+      <div className={classes.action}>
         <button className="btn btn-danger" onClick={deleteHandler}>
           DELETE
         </button>

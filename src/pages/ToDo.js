@@ -3,7 +3,7 @@ import TodoList from "../components/todo/TodoList";
 function ToDoPage() {
   return (
     <section>
-      <div className="todo-wrapper">
+      <div>
         <h2>to do page</h2>
         <TodoList text="Container 1" />
         <TodoList text="Container 2" />

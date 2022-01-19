@@ -8,56 +8,10 @@ body {
   background-color: #dfdfdf;
 }
 
-.card {
-  background-color: white;
-  border-radius: 4px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  padding: 1rem;
-  width: 20rem;
-  margin-bottom: 20px;
-  border-radius: 6px;
-}
-
-.modal_popup {
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  border-radius: 6px;
-  background-color: white;
-  padding: 1rem;
-  text-align: center;
-  width: 30rem;
-  z-index: 10;
-  position: fixed;
-  top: 20vh;
-  left: calc(50% - 15rem);
-}
-
-.modal_popup button {
-  margin-left: 10px;
-}
-
-.backdrop {
-  cursor: pointer;
-  position: fixed;
-  z-index: 1;
-  background-color: rgba(0, 0, 0, 0.75);
-  width: 100%;
-  height: 100vh;
-  top: 0;
-  left: 0;
-}
-
 main h2 {
   text-align: center;
   text-transform: uppercase;
   font-size: 50px;
   font-weight: bold;
   margin-top: 40px;
-}
-
-.todo-wrapper {
-  margin-top: 50px;
-}
-
-.todo-wrapper h1 {
-  color: #000;
 }

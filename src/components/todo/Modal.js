@@ -1,3 +1,5 @@
+import classes from "./Modal.module.css";
+
 function Modal(props) {
   function cancelButton() {
     props.onCancel();
@@ -8,9 +10,9 @@ function Modal(props) {
   }
 
   return (
-    <div className="modal_popup">
+    <div className={classes.modal_popup}>
       <p>Are you sure?</p>
-      <button className="btn btn-primary" onClick={cancelButton}>
+      <button className={"btn btn-primary"} onClick={cancelButton}>
         Cancel
       </button>
       <button className="btn btn-danger" onClick={confirmButton}>
